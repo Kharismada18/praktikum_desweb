@@ -1,26 +1,28 @@
-# BOOSTRAP CSS JS HTML
+# ----- Praktikum Desain Web -----
 
-<details>
-  <summary>ID Mahasiswa</summary>
-  
-  ### Myid
-  Nama  : Kharisma Dinda Amareta
-  NIM   : 21104410055
-  Kelas : TIB
+Nama    : Kharisma Dinda Amareta
 
-  ### Question 
-  ```
-     Kumpulan source code untuk memenuhi Tugas Praktikum Desain Web
-  ```
-</details>
+NIM     : 21104410055
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+Kelas   : TI-3B
 
-Repository ini digunakan untuk memenuhi tugas semester 3 dalam pembelajaran HTML CSS dan JS untuk mata kuliah [PRAKTIKUM DESAIN WEB]
+Jurusan : Teknik Informatika
 
-# 🔗 Link Preview Semua Tugas
-  [![Tugas Disini]()]
+Kampus  : Universitas Islam Balitar
 
 
-# Operation System
-![Alt text](/img/win.png "Using Windows Operation System")
+## 🦕 Author 🦕
+
+- [@Kharismada18](https://github.com/Kharismada18)
+
+
+## 🚨 Penting!
+- Jika membuka dengan codepen : Sebagian gambar tidak akan muncul karena tersimpan dalam penyimpanan lokal
+
+
+## 🔗 Live Preview Tugas
+
+- Pertemuan 1 : [Codepen]()
+- Pertemuan 2&3 : [Codepen]()
+- Pertemuan 4 : [Codepen]()
+- Pertemuan 5 : [Codepen]()
